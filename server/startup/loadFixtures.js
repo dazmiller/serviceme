@@ -15,4 +15,6 @@ function loadFixture(fixtures, collection) {
 
 Meteor.startup(function () {
   //loadFixture(Fixtures['dummyFixture'], DummyCollection);
+  // test comment 
+  // a test comment
 });
