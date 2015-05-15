@@ -1,3 +1,9 @@
+/**
+ * [loadFixture description]
+ * @param  {[type]} fixtures   [description]
+ * @param  {[type]} collection [description]
+ * @return {[type]}            [description]
+ */
 function loadFixture(fixtures, collection) {
   var i;
 

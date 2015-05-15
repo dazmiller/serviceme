@@ -3,7 +3,7 @@
 This boilerplate is here to give you a starting point for your meteor projects, with a console tool to ease up some tasks. Essential atmosphere packages are included to give you features like routing and collection schemas out-of-the-box.  
 
 <!-- toc -->
-
+ 
 * [Installing with orion-cli](#installing-with-orion-cli)
 * [How to use](#how-to-use)
   * [Generating files](#generating-files)
@@ -20,7 +20,7 @@ This boilerplate is here to give you a starting point for your meteor projects, 
 
 <!-- toc stop -->
 
-The boilerplate looks like following: [boilerplate.meteor.com](http://boilerplate.meteor.com). Have a look at [starthacking](http://starthacking.meteor.com/) for a project created with this boilerplate.
+The boilerplate looks like following: [boilerplate.meteor.com](http://boilerplate.meteor.com). Have a look at [starthacking](http://starthacking.meteor.com/) for a project created with this boilerplate. Test
 
 ## Installing with orion-cli
 
